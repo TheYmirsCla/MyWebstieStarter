@@ -1,20 +1,22 @@
 h1 {
   color: blue;
   font-size: 20px
+  text-align: center;
+
 }
 
 li {
   background-color: yellow;
   color: green;
-margin-bottom: 8px;
-background-color: black;
-margin: 0 auto;
+  margin-bottom: 8px;
+  background-color: black;
+  margin: 0 auto;
 }
 
 a {
   font-size: 20px;
   padding-left: 20px;
-background-color: black;
-display: table;
-margin: 0 auto;
+  background-color: black;
+  display: table;
+  margin: 0 auto;
 }
