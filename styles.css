@@ -20,6 +20,7 @@ li {
   margin-bottom: 8px;
   background-color: black;
   margin: 0 auto;
+  text-align: center;
 }
 
 a {
@@ -28,4 +29,6 @@ a {
   background-color: black;
   display: table;
   margin: 0 auto;
+  text-align: center;
+
 }
